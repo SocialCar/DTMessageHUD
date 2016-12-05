@@ -82,7 +82,7 @@ public class DTMessageHUD: UIView {
       backgroundColor = UIColor.white
       strokeColor = UIColor.black
     case .dark:
-      backgroundColor = UIColor(red:0.11, green:0.11, blue:0.15, alpha:0.8)
+      backgroundColor = UIColor(red:0.11, green:0.11, blue:0.15, alpha:0.4)
       strokeColor = UIColor.white
     }
     
