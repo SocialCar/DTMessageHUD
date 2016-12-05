@@ -1,6 +1,6 @@
 ## Introduction
 
-Simple loading HUD.
+Simple loading HUD
 
 ![Demo](Demo.gif)
 
